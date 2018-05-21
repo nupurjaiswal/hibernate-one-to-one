@@ -38,7 +38,7 @@ SET FOREIGN_KEY_CHECKS = 1;
 
 ```
 
-###How do you reference a foreign key in the table?
+### How do you reference a foreign key in the table?
  ```sh
  CREATE TABLE `instructor` (
    ..
